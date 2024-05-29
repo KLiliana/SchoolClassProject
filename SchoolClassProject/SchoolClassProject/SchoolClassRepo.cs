@@ -17,7 +17,7 @@ namespace SchoolClassProject
 
         public SchoolClass GetMostPaidSchoolClass()
         {
-            return null;
+            return null; 
         }
     }
 }
